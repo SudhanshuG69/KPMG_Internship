@@ -52,7 +52,6 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 ---
 
 
-
 ## RFM Analysis
 
 
@@ -60,10 +59,7 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 <img align="center" alt = "Coding"  width = 450 height= 200 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/b0990cc2-092e-42cb-82b1-79b2751742fc">
 <img align="center" alt = "Coding"  width = 1000 height= 300 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/ff08dc9b-93d7-486d-9024-306a677572c7">
 
-
-
 ---
-
 
 
 ## Age-Wise Analysis
@@ -72,10 +68,7 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 <img align="center" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/808369ad-2b21-4562-917b-d73669b2e3d1">
 <img align="left" alt = "Coding"  width = 1000 height= 250 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/4f5d9de0-911d-4271-a4c5-61ed98ddc42d">
 
-
-
 ---
-
 
 
 ## Gender-Wise Analysis
@@ -84,10 +77,7 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 <img align="center" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/58c0f8a6-effb-4357-a497-b840a4136b0e"><br>
 <img align="left" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/45b323aa-279d-415c-b4d6-77f7ff208d68"><br>
 
-
-
 ---
-
 
 
 ## Customer Segment Analysis
@@ -96,10 +86,7 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 <img align="center" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/c2bbd283-8378-490e-9452-2712b5f13ae9"><br>
 <img align="left" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/97950d8a-c92f-48cd-ac7f-c1d4d0c2fd28"><br>
 
-
-
 ---
-
 
 
 ## Bike-Related Purchase Analysis
@@ -114,10 +101,29 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 **To know the detailed analysis check out: [Task 2 Solution file]()<br>**
 **For the Task 2 Presentation Solution [Click Here]()**
 
+<h3 align = 'center'> TASK 3: Data Insights and Presentation </h3>
+Our next task is to Develop a dashboard that we can present to the client at our next meeting. Our presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.
 
 
+## Location Dashboard
 
 
+<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/6247919a-db75-47d8-ab00-9f4e9be21311"><br>
+
+## Product Dashboard
+
+
+<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/49519ebe-b284-47e5-8f59-4fdc95eab547"><br>
+
+## Age-Analysis Dashboard
+
+
+<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/29852664-9ea3-47c5-af2c-85c3f92fe5a2"><br>
+
+## Time Analysis Dashboard
+
+
+<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/8f6075aa-4114-4dc9-a058-d46c167be1d8"><br>
 
 
 
