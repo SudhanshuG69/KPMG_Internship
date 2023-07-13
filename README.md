@@ -51,7 +51,6 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 
 ---
 
---- 
 
 
 ## RFM Analysis
@@ -70,8 +69,8 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 ## Age-Wise Analysis
 
 
-<img align="center" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/808369ad-2b21-4562-917b-d73669b2e3d1"><br>
-<img align="left" alt = "Coding"  width = 1000 height= 250 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/4f5d9de0-911d-4271-a4c5-61ed98ddc42d"><br>
+<img align="center" alt = "Coding"  width = 1000 height= 220 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/808369ad-2b21-4562-917b-d73669b2e3d1">
+<img align="left" alt = "Coding"  width = 1000 height= 250 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/4f5d9de0-911d-4271-a4c5-61ed98ddc42d">
 
 
 
