@@ -27,7 +27,7 @@ We found some impurities in the dataset, which are:
 - Found outliers, reoccurrence of data and empty values in certain records.
 - Found Inconsistent values for the same attribute.
 
-For more details about data quality issues and Task 1 solution check: [Task 1 Solution File]()
+For more details about data quality issues and Task 1 solution check: [Task 1 Solution File](https://github.com/SudhanshuG69/KPMG_Internship/blob/4cace8169ef1ddb19dcd8bc3751c40e2a64cd930/KPMG%20Quality%20Analysis%20Mail.pdf)
 
 <h3 align = 'center'> TASK 2: Data Insights </h3>
 <h4 align = 'center'> Targeting high-value customers based on customer demographics and attributes. </h4>
