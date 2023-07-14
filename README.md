@@ -1,4 +1,4 @@
-KPMG_Internship </h1>
+<h1 align = 'center'> KPMG_Internship </h1>
 Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation, has approached  KPMG and needs help with its customer and transaction data. The organisation has a large dataset relating to its customers, but their team is unsure how to analyse it to help optimise its marketing strategy effectively. 
 
 However, in order to support the analysis, We spoke to the Assototor for some ideas and she advised that “the importance of optimising the quality of customer datasets cannot be underestimated. The better the dataset's quality, the better chance you will be able to use it to drive company growth.”
@@ -33,6 +33,8 @@ For more details about data quality issues and Task 1 solution check: [Task 1 So
 <h4 align = 'center'> Targeting high value customers based on customer demographics and attributes. </h4>
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. These customers do not have prior transaction history with the organisation. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour.
+
+
 [New_Customer_File]()
 
 The task is to Create a PowerPoint presentation which outlines the approach we will be taking to identify which of the 1000 customers Sprocket Central Pty Ltd should target, based on the dataset. Explain the three phases :
@@ -48,6 +50,8 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 
 <img align="left" alt = "Coding"  width = 600 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/3673a928-a765-4558-b29c-b19a5690c34c">
 <img align="center" alt = "Coding"  width = 300 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/4e24e3d7-821d-4694-8750-e3225fd97eb0">
+
+---
 
 ---
 
@@ -108,25 +112,38 @@ Our next task is to Develop a dashboard that we can present to the client at our
 ## Location Dashboard
 
 
-<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/6247919a-db75-47d8-ab00-9f4e9be21311"><br>
+<img align="left" alt = "Coding"  width = 1000 height= 400 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/6247919a-db75-47d8-ab00-9f4e9be21311"><br>
 
 ## Product Dashboard
 
 
-<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/49519ebe-b284-47e5-8f59-4fdc95eab547"><br>
+<img align="left" alt = "Coding"  width = 1000 height= 400 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/49519ebe-b284-47e5-8f59-4fdc95eab547"><br>
 
 ## Age-Analysis Dashboard
 
 
-<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/29852664-9ea3-47c5-af2c-85c3f92fe5a2"><br>
+<img align="left" alt = "Coding"  width = 1000 height= 400 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/29852664-9ea3-47c5-af2c-85c3f92fe5a2"><br>
 
 ## Time Analysis Dashboard
 
 
-<img align="left" alt = "Coding"  width = 1000 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/8f6075aa-4114-4dc9-a058-d46c167be1d8"><br>
+<img align="left" alt = "Coding"  width = 1000 height= 400 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/8f6075aa-4114-4dc9-a058-d46c167be1d8">
 
 
+---
 
+
+---
+
+
+ 
+**For the Complete Dashboard File check out : [Sprocket Dashboard Solution]()**
+
+
+### We generate some insights from the data which will help the marketing team in increasing the sales of Sprocket's bike sales.
+- People from **NSW** are showing more interest in the as compared to the rest two states, so we should plan some **advertising campaigns** for other states in order to increase the popularity of the brand.
+- Most of our customer base is from the age group 40-50. The age group 20-40 has less contribution in our customer base. We can organise some **adventure bike off-roading events** in the city to show the toughness and reliability of our bikes. This can also help in increasing sales of "Mountain" which is our least sold product category.
+- Employees from "Finacial Sevices", "Manufacturing" and "Health Sector" are showing great response to our products and they together contribute 65%(approx) in our customer base. We should tie up with the companies from the other sector like "Agriculture", "Telecommunication" and give them **promotional introductory discounts** for their employees.
 
 
 
