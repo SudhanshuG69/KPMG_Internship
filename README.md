@@ -1,5 +1,5 @@
-<h1 align = 'center'> KPMG_Internship </h1>
-Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation, has approached  KPMG and needs help with its customer and transaction data. The organisation has a large dataset relating to its customers, but their team is unsure how to analyse it to help optimise its marketing strategy effectively. 
+<h1 align = 'center'> KPMG Data Analytics Internship </h1>
+Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation, has approached  KPMG and needs help with its customer and transaction data. The organisation has a large dataset relating to its customers, but its team is unsure how to analyse it to help optimise its marketing strategy effectively. 
 
 However, in order to support the analysis, We spoke to the Assototor for some ideas and she advised that “the importance of optimising the quality of customer datasets cannot be underestimated. The better the dataset's quality, the better chance you will be able to use it to drive company growth.”
 
@@ -22,7 +22,7 @@ The task is to review the data quality of the dataset and Draft an email to the 
 Standard Data Quality Table is the reference table we used for checking our dataset quality.
 <img align="center" alt = "Coding"  width = 300 src ="https://github.com/SudhanshuG69/KPMG_Internship/assets/128242327/ed023b28-307b-4963-8570-d91017c526c8">
 
-We found some of impurities in the dataset, which are:
+We found some impurities in the dataset, which are:
 - Dataset has irrelevant fields.
 - Found outliers, reoccurrence of data and empty values in certain records.
 - Found Inconsistent values for the same attribute.
@@ -30,12 +30,12 @@ We found some of impurities in the dataset, which are:
 For more details about data quality issues and Task 1 solution check: [Task 1 Solution File]()
 
 <h3 align = 'center'> TASK 2: Data Insights </h3>
-<h4 align = 'center'> Targeting high value customers based on customer demographics and attributes. </h4>
+<h4 align = 'center'> Targeting high-value customers based on customer demographics and attributes. </h4>
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. These customers do not have prior transaction history with the organisation. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour.
 
 
-[New_Customer_File]()
+[New_Customer_File](https://github.com/SudhanshuG69/KPMG_Internship/blob/fd0322deb7140a57cd9300ce93e48c3f7cead090/NewCustomerList.xlsx)
 
 The task is to Create a PowerPoint presentation which outlines the approach we will be taking to identify which of the 1000 customers Sprocket Central Pty Ltd should target, based on the dataset. Explain the three phases :
 - Data Exploration
@@ -102,8 +102,8 @@ To know more about RFM ANALYSIS click : [RFM ANALYSIS](https://clevertap.com/blo
 ---
 
 
-**To know the detailed analysis check out: [Task 2 Solution file]()<br>**
-**For the Task 2 Presentation Solution [Click Here]()**
+**To know the detailed analysis check out: [Task 2 Solution file](https://github.com/SudhanshuG69/KPMG_Internship/blob/fd0322deb7140a57cd9300ce93e48c3f7cead090/KPMG_Task2%20Solution_FILE.xlsx)<br>**
+**For the Task 2 Presentation Solution [Click Here](https://github.com/SudhanshuG69/KPMG_Internship/blob/fd0322deb7140a57cd9300ce93e48c3f7cead090/KPMG_Virtual_Internship_ppt.pdf)**
 
 <h3 align = 'center'> TASK 3: Data Insights and Presentation </h3>
 Our next task is to Develop a dashboard that we can present to the client at our next meeting. Our presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.
@@ -137,7 +137,7 @@ Our next task is to Develop a dashboard that we can present to the client at our
 
 
  
-**For the Complete Dashboard File check out : [Sprocket Dashboard Solution]()**
+**For the Complete Dashboard File check out : [Sprocket Dashboard Solution](https://github.com/SudhanshuG69/KPMG_Internship/blob/fd0322deb7140a57cd9300ce93e48c3f7cead090/KPMG%20DASHBOARD.pbix)**
 
 
 ### We generate some insights from the data which will help the marketing team in increasing the sales of Sprocket's bike sales.
